@@ -12,7 +12,7 @@
 
 
 ### 2019
-- Patro, Badri N., Anupriy and Vinay P. Namboodiri. “Probabilistic framework for solving Visual Dialog.” (2019). [paper](https://arxiv.org/pdf/1909.04800.pdf)
+- Patro, Badri N., Anupriy and Vinay P. Namboodiri. “Probabilistic framework for solving Visual Dialog.” (Pattern Recognition 2020). [paper](https://arxiv.org/pdf/1909.04800.pdf)
 
 - Niu, Yulei, Hanwang Zhang, Manli Zhang, Jianhong Zhang, Zhiwu Lu, and Ji-Rong Wen. "Recursive visual attention in visual dialog." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 6679-6688. 2019. [paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Niu_Recursive_Visual_Attention_in_Visual_Dialog_CVPR_2019_paper.html)
 
